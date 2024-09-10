@@ -17,6 +17,7 @@ let metas = [
 ]
 
 meta.log(meta.value)
+console.log(metas[1].value)
 
 //function //arrow function
 const criarMeta = () => {}
