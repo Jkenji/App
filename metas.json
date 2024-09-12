@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 2L de água por dia",
+    "checked": true
+  },
+  {
+    "value": "andar 20 minutos todos os dias",
+    "checked": true
+  },
+  {
+    "value": "dormir 8 horas por dia",
+    "checked": false
+  },
+  {
+    "value": "ler por 15 minutos",
+    "checked": false
+  }
+]
